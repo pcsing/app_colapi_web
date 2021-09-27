@@ -1,1 +1,1 @@
-document.writeln("aa");
+document.writeln("おはいよ");
